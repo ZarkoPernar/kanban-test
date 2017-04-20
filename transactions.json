@@ -1,0 +1,6 @@
+[
+    { "currency": "EUR", "amount": 192.23 },
+    { "currency": "USD", "amount": 1.79 },
+    { "currency": "CHF", "amount": 2.79 },
+    { "currency": "GBP", "amount": 10.01 }
+]
