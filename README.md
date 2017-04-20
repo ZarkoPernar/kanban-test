@@ -1,6 +1,10 @@
 # Kanban Test
 
-## Start Develompent (needs mongo on)
+``` 
+npm i
+```
+
+## Start Develompent
 ``` 
 npm run dev
 ```
