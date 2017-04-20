@@ -1,6 +1,6 @@
 {
-  "name": "Pazi, Policija!",
-  "short_name": "Policija!",
+  "name": "Kanban Test",
+  "short_name": "Kanban",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
