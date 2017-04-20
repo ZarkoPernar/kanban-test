@@ -1,9 +1,6 @@
-import React, { Component } from 'react'
+import React from 'react'
 import { render } from 'react-dom'
 
-// if (process.env.NODE_ENV && process.env.NODE_ENV.trim() === 'production') {
-// 	require('offline-plugin/runtime').install()
-// }
 if (process.env.NODE_ENV && process.env.NODE_ENV.trim() === 'development') {
 	// require('react-dom/devtools')
 }

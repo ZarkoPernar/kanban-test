@@ -36,12 +36,6 @@ module.exports = function (env) {
 
             new ExtractTextPlugin('styles.css'),
 
-            new webpack.optimize.CommonsChunkPlugin({
-                name: 'vendor',
-                filename: 'commons-[chunkhash].js',
-                minChunks: 2,
-            }),
-
             new webpack.DefinePlugin({
                 'process.env.NODE_ENV': JSON.stringify('production')
             }),
